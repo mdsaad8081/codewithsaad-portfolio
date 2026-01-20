@@ -21,7 +21,7 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            Aspiring Software Engineer & Data Science Enthusiast
+             Software Engineer & Data Science Enthusiast
 Building intelligent and data-driven software solutions using Python, DSA, SQL and AI-assisted development.
           </p>
 

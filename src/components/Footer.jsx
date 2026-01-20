@@ -8,6 +8,8 @@ export const Footer = () => {
         {" "}
         &copy; {new Date().getFullYear()} codewithsaad.co. All rights reserved.
       </p>
+
+      
       <a
         href="#hero"
         className="p-2 rounded-full bg-primary/10 hover:bg-primary/20 text-primary transition-colors"
