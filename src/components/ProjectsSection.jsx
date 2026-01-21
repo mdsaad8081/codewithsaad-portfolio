@@ -3,12 +3,12 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
-    description: "A beautiful landing page app using React and Tailwind.",
+    title: "Codewithsaad Chating App",
+    description: "A Project of Real time Chating App  ",
     image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
+    tags: ["C++", "HTML", "CSS"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://copy-of-whats-app-chating-app.vercel.app/",
   },
   {
     id: 2,
