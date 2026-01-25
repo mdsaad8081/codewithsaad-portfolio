@@ -98,7 +98,7 @@ export const ContactSection = () => {
                 <a href="https://github.com/mdsaad8081" target="_blank">
                   <Github />
                 </a>
-                <a href="https://www.instagram.com/codewithsaad__/?__pwa=1#" target="_blank">
+                <a href="https://www.instagram.com/codewithsaad_/?__pwa=1#" target="_blank">
                   <Instagram />
                 </a>
                 
