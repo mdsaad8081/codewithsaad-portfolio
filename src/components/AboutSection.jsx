@@ -12,15 +12,15 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-               Software Engineer & Data Science Enthusiast
+               Software Engineer & Full Stack Developer
             </h3>
 
             <p className="text-muted-foreground">
-             I am an aspiring Software Engineer with a strong interest in Data Science and intelligent software development. I have a solid foundation in C, C++ and SQL, and I am currently strengthening my skills in Python and Data Structures & Algorithms to improve problem-solving and computational thinking.
+             I am a passionate Full Stack Developer with hands-on experience in building real-time and scalable web applications using React.js, Node.js, and MongoDB. I have developed projects like a real-time chat application and an e-commerce platform, focusing on performance and user experience.
             </p>
 
             <p className="text-muted-foreground">
-              I am also exploring Data Science and modern AI-assisted development workflows to understand how data, analytics and automation can enhance software functionality and decision-making. Alongside software fundamentals, I actively learn new tools and techniques to stay aligned with the evolving tech landscape.
+              I am skilled in REST API development, database management, and responsive UI design. I enjoy solving real-world problems and continuously learning new technologies to improve my skills.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">

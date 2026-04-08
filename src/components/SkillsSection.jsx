@@ -5,26 +5,47 @@ const skills = [
   // programming
   { name: "C", level: 95, category: "programming" },
   { name: "C++", level: 90, category: "programming" },
-  { name: "Python (Learning)", level: 50, category: "programming" },
+  { name: "java", level: 95, category: "programming" },
+  { name: "JavaScript", level: 98, category: "programming" },
+  { name: "SQL", level: 99, category: "programming" },
+  { name: "CSS3", level: 90, category: "programming" },
   
-  //cs
-  { name: "DSA (Learning)", level: 60, category: "cs" },
+  
 
-  // Data & database
-  { name: "SQL ", level: 80, category: "data" },
-  { name: "DBMS ", level: 75, category: "data" },
+  // Database
+  { name: "SQL ", level: 99, category: "Database" },
+  { name: "Firebase ", level: 100, category: "Database" },
+   { name: "chromeDB ", level: 100, category: "Database" },
+  { name: "MongoDB ", level: 97, category: "Database" },
+  { name: "SQLserver ", level: 98, category: "Database" },
+  
 
-  // web 
-  { name: "HTML", level: 85, category: "web" },
-  { name: "CSS", level: 75, category: "web" },
-  { name: "JavaScript", level: 60, category: "web" },
+  // Frontend & Web
+  { name: "React.js", level: 85, category: "Frontend" },
+  { name: "React", level: 75, category: "Frontend" },
+  { name: "Redux", level: 65, category: "Frontend" },
+  { name: "Tailwind CSS", level: 66, category: "Frontend" },
+  { name: "Material UI", level: 69, category: "Frontend" },
 
-  // Tools
-  { name: "Git/GitHub", level: 90, category: "tools" },
-  { name: "VS Code", level: 95, category: "tools" },
+  // Backend
+  { name: "Node.js", level: 70, category: "Backend" },
+  { name: "Express.js", level: 65, category: "Backend" },
+  { name: "Rest API", level: 60, category: "Backend" },
+  { name: "asp.net", level: 55, category: "Backend" },
+  { name: "Architecture", level: 60, category: "Backend" },
+
+  // Ai
+  { name: "OpenAI Gpt", level: 50, category: "Ai" },
+  { name: "AutoGen", level: 40, category: "Ai" },
+  { name: "OpenAI AI", level: 40, category: "Ai" },
+
+// Tools
+  { name: "Git/GitHub", level: 90, category: "Tools" },
+  { name: "VS Code", level: 95, category: "Tools" },
+
 ];
 
-const categories = ["all", "programming", "cs", "data", "web", "tools"];
+const categories = ["all", "programming", "Database", "Frontend", "Backend", "Tools", "Ai"];
 
 export const SkillsSection = () => {
   const [activeCategory, setActiveCategory] = useState("all");

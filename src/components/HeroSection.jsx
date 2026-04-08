@@ -23,8 +23,8 @@ export const HeroSection = () => {
         </h1>
 
         <p className="text-lg md:text-xl text-muted-foreground">
-          Software Engineer & Data Science Enthusiast Building intelligent and data-driven software 
-          using Python, DSA, SQL, and AI-assisted development.
+          Full Stack Developer | Building scalable and user-friendly web applications using React, Node.js & MongoDB
+    💡 Passionate about solving real-world problems and continuously learning new technologies
         </p>
       </div>
 
